@@ -20,8 +20,9 @@
 
  
 **StringTie: a fast, accurate method for assembly and quantification of transcripts from RNA-seq reads, either with or without annotation as a guide.**
-> Version 1.1 has major memory usage improvements
 
 - [Software](http://ccb.jhu.edu/software/stringtie)
 - Github: [gpertea/stringtie](https://github.com/gpertea/stringtie)
 - [Poster](http://ccb.jhu.edu/software/stringtie/cshl2015.pdf)
+- notes: Version 1.1 has major memory usage improvements
+
