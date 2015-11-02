@@ -3,6 +3,6 @@
  
  > Disclamer: Information from in this page, has been copied from this blog post: [Software from CSHL Genome Informatics](http://www.gettinggeneticsdone.com/2015/11/software-from-cshl-genome-informatics.html)
  
-GQT
+**Making queries of the genome less difficult (GQT)**
 
-- slides: [https://speakerdeck.com/arq5x/making-queries-of-the-genome-less-difficult](https://speakerdeck.com/arq5x/making-queries-of-the-genome-less-difficult)
+- [slides](https://speakerdeck.com/arq5x/making-queries-of-the-genome-less-difficult)
